@@ -1,5 +1,5 @@
 var assert 	= 	require("assert"),
-	Stack  	=	require('../src/Stack');
+    Stack  	=	require('../src/Stack');
 
 describe('Stack should', function(){
     before(function() {
