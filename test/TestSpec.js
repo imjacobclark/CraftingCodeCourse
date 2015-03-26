@@ -23,9 +23,9 @@ describe('Stack should', function(){
 
 	it('pop objects in the reverse order to which they were pushed', function(){
 		// Given we have several objects to push to the stack
-		var firstObject 	= 	new Object,
-			secondObject	=	new Object,
-			thirdObject		=	new Object;
+		var firstObject     = 	new Object,
+			secondObject    =	new Object,
+			thirdObject     =	new Object;
 
 		// When we push the objects to the stack
 		this.stack.push(firstObject);
