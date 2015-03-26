@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-npm-debut.log
-=======
 # Logs
 logs
 *.log
@@ -29,4 +26,3 @@ node_modules
 
 # Users Environment Variables
 .lock-wscript
->>>>>>> 0e4bd57ca040935c6880d57488be6134990d22a3
